@@ -11,9 +11,21 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
 
+       
+        let numberToConvert = 438237764
+        let conversion = Conversion(num: NSNumber(value: numberToConvert))
+        do {
+            let words = try conversion.convertNumToWord()
+            print(words)
+        } catch ConversionError.invalidNumber {
+            print("")
+        } catch {
+            print("")
+        }
+
+
+    }
 
 }
 

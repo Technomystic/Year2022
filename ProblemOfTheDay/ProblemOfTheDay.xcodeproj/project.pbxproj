@@ -17,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		84387C462783723E0074E7F3 /* Day_2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Day_2.playground; sourceTree = "<group>"; };
 		844B90BD2780C43300D3E4D5 /* ProblemOfTheDay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProblemOfTheDay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		844B90C02780C43300D3E4D5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		844B90C22780C43300D3E4D5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -26,7 +27,6 @@
 		844B90CC2780C43500D3E4D5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		844B90CE2780C43500D3E4D5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		844B90D52780C4D800D3E4D5 /* Day1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day1.swift; sourceTree = "<group>"; };
-		84AFAAAE2782202D004FAC14 /* Day_2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Day_2.playground; path = "../../../../Library/Autosave Information/Day_2.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +59,7 @@
 		844B90BF2780C43300D3E4D5 /* ProblemOfTheDay */ = {
 			isa = PBXGroup;
 			children = (
-				84AFAAAE2782202D004FAC14 /* Day_2.playground */,
+				84387C462783723E0074E7F3 /* Day_2.playground */,
 				844B90C02780C43300D3E4D5 /* AppDelegate.swift */,
 				844B90C22780C43300D3E4D5 /* SceneDelegate.swift */,
 				844B90C42780C43300D3E4D5 /* ViewController.swift */,
